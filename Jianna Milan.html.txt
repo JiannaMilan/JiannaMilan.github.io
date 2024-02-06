@@ -15,7 +15,7 @@
 <p style="font: bold 11px cursive;color:black;text-align:center;">This text is small!</p>
 <p style="font: bold 48px cursive;color:black;text-align:center;">This text is big!</p>
 <hr>
-<img src="1665119235phpoToi7d.jpeg"/>
+<img src="https://www.montclair.edu/responsive-media/cache/wp-content/uploads/2017/11/042817_5217_Campus-Aerials-3840x2160.jpg.5.1x.generic.jpg"/>
 <hr>
 <table align="center" border="1" width="800">
 <tr>
